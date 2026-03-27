@@ -41,10 +41,5 @@ You can download the pre-compiled application from the [Releases](https://github
 *   **macOS:** Download the latest release `.dmg` file, open it, and drag the application to your Applications folder.
 *   **Windows:** Coming in future versions (a `.exe` installer will be available).
 
-
-
-## Packaging
-To build a standalone executable or an installer (like a macOS `.dmg`), you can use PyInstaller or similar tools. A `TrueHash Forensics.spec` file is included for this purpose.
-
 ## License
 This project is licensed under the GNU GPL v3. See the `LICENSE` file for details.
