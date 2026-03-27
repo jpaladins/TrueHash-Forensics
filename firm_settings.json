@@ -1,0 +1,4 @@
+{
+    "rich_text_xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<richtext version=\"1.0.0.0\" xmlns=\"http://www.wxwidgets.org\">\n  <paragraphlayout textcolor=\"#FFFFFF\" fontpointsize=\"13\" fontfamily=\"72\" fontstyle=\"90\" fontweight=\"400\" fontunderlined=\"0\" fontface=\".AppleSystemUIFont\" alignment=\"1\" parspacingafter=\"10\" parspacingbefore=\"0\" linespacing=\"10\" margin-left=\"5,4098\" margin-right=\"5,4098\" margin-top=\"5,4098\" margin-bottom=\"5,4098\">\n    <paragraph alignment=\"2\">\n      <text fontweight=\"700\">SG CONSULTING SRL</text>\n    </paragraph>\n    <paragraph alignment=\"2\">\n      <text fontstyle=\"93\" fontweight=\"400\">Via Milano, 50, Lizzanello LE</text>\n    </paragraph>\n    <paragraph alignment=\"2\">\n      <text fontstyle=\"93\">ISO 49340-34</text>\n    </paragraph>\n  </paragraphlayout>\n</richtext>\n",
+    "logo_path": "/Users/michele/Downloads/marchio silveriogreco bianco.png"
+}
