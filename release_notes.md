@@ -1,9 +1,9 @@
-# TrueHash Forensics v1.0.0 - Initial Release
+# TrueHash Forensics v0.1 - OPEN BETA
 
 🇮🇹 **Versione Italiana** | 🇬🇧 [English Version](#english-version)
 <hr>
 
-Siamo lieti di annunciare la prima release ufficiale di **TrueHash Forensics**! 🎉
+Siamo lieti di annunciare la prima release in **OPEN BETA** (v0.1) di **TrueHash Forensics**! 🎉
 Questo strumento è stato progettato per garantire un'acquisizione sicura e una certificazione accurata (tramite Timestamp TSA e notarizzazione blockchain OpenTimestamps) delle impronte digitali (Hash SHA-256) dei tuoi file e cartelle a scopo forense.
 
 ### Novità di questa versione
@@ -14,6 +14,7 @@ Questo strumento è stato progettato per garantire un'acquisizione sicura e una 
 
 ### Prossimamente
 - La generazione del Verbale di Consegna (Chain of Custody) sarà resa disponibile nelle prossime edizioni.
+- L'interfaccia e la traduzione del software in lingua inglese saranno disponibili nelle prossime versioni (attualmente il software è in italiano).
 
 ### Note sull'installazione
 > **Nota importante sulla compatibilità di sistema:**
@@ -32,7 +33,7 @@ Per installare su macOS:
 
 <h2 id="english-version">🇬🇧 English Version</h2>
 
-We are excited to announce the official first release of **TrueHash Forensics**! 🎉
+We are excited to announce the first **OPEN BETA** release (v0.1) of **TrueHash Forensics**! 🎉
 This tool is designed to ensure secure acquisition and accurate certification (via TSA Timestamps and OpenTimestamps blockchain notarization) of digital footprints (SHA-256 Hashes) for your files and folders for forensic purposes.
 
 ### What's New in This Release
@@ -43,6 +44,7 @@ This tool is designed to ensure secure acquisition and accurate certification (v
 
 ### Coming Soon
 - The Chain of Custody delivery report (*Verbale di Consegna*) generation will be added in future versions.
+- An **English translation of the software interface** will be available in future releases (the current GUI is in Italian).
 
 ### Installation Notes
 > **Important System Compatibility Note:**
