@@ -18,15 +18,7 @@ Puoi scaricare l'applicazione pre-compilata dalla pagina [Releases](https://gith
 *   **macOS:** Scarica l'ultima release, il file `.dmg`, aprilo e trascina l'applicazione nella tua cartella Applicazioni.
 *   **Windows:** In arrivo nelle prossime versioni (sarà disponibile un file `.exe`).
 
-### 💻 Sviluppatori (Avvio dal Codice Sorgente)
-```bash
-git clone https://github.com/jpaladins/TrueHash-Forensics.git
-cd TrueHash-Forensics
-python -m venv .venv
-source .venv/bin/activate  # Su Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-python main.py
-```
+
 
 <hr>
 
@@ -48,15 +40,7 @@ You can download the pre-compiled application from the [Releases](https://github
 *   **macOS:** Download the latest release `.dmg` file, open it, and drag the application to your Applications folder.
 *   **Windows:** Coming in future versions (a `.exe` installer will be available).
 
-### 💻 Developers (Running from Source)
-```bash
-git clone https://github.com/jpaladins/TrueHash-Forensics.git
-cd TrueHash-Forensics
-python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-python main.py
-```
+
 
 ## Packaging
 To build a standalone executable or an installer (like a macOS `.dmg`), you can use PyInstaller or similar tools. A `TrueHash Forensics.spec` file is included for this purpose.
