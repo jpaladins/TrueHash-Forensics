@@ -12,20 +12,28 @@ TrueHash Forensics is a professional forensic tool designed for secure data acqu
 
 ## Installation & Running
 
-### Prerequisites
+### End Users (Recommended)
+You can download the pre-compiled application from the [Releases](https://github.com/jpaladins/TrueHash-Forensics/releases) page.
+*   **macOS:** Download the `.dmg` file, open it, and drag the application to your Applications folder.
+*   **Windows:** Coming in the next version (a `.exe` installer will be available).
+
+### Developers (Running from Source)
+If you want to run or build the project from source:
+
+#### Prerequisites
 *   Python 3.9+
 *   Poetry or virtualenv (recommended)
 
-### Setup
+#### Setup
 ```bash
-git clone https://github.com/YOUR_USERNAME/TrueHash-Forensics.git
+git clone https://github.com/jpaladins/TrueHash-Forensics.git
 cd TrueHash-Forensics
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt # Or install dependencies manually if no requirements.txt
 ```
 
-### Running
+#### Running
 ```bash
 python main.py
 ```
