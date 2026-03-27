@@ -8,7 +8,6 @@ TrueHash Forensics is a professional forensic tool designed for secure data acqu
 *   **Professional Reporting:** Creates detailed PDF forensic reports featuring case metadata, investigator information, and an interactive file index.
 *   **Digital Certification:** Integrates **TSA (Time-Stamping Authority)** through DigiCert to provide legally-verifiable timestamps.
 *   **Blockchain Notarization:** Utilizes the **OpenTimestamps** protocol to anchor document hashes to the Bitcoin blockchain for immutable proof of existence.
-*   **Chain of Custody:** Automatically generates a delivery report (*Verbale di Consegna*) to document the transfer of evidence.
 
 ## Installation & Running
 

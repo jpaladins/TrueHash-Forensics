@@ -1,22 +1,24 @@
 # TrueHash Forensics v1.0.0 - Initial Release
 
-Siamo lieti di annunciare la prima release ufficiale di **TrueHash Forensics**! 🎉 
-Questo strumento è stato progettato per garantire un'acquisizione sicura e una certificazione accurata (tramite Timestamp TSA e notarizzazione blockchain OpenTimestamps) delle impronte digitali (Hash SHA-256) dei tuoi file e cartelle a scopo forense.
+We are excited to announce the official first release of **TrueHash Forensics**! 🎉
+This tool is designed to ensure secure acquisition and accurate certification (via TSA Timestamps and OpenTimestamps blockchain notarization) of digital footprints (SHA-256 Hashes) for your files and folders for forensic purposes.
 
-### Novità di questa versione
-- Generazione automatica di report forensi in formato PDF.
-- Integrazione con la Blockchain Bitcoin (OTS).
-- Integrazione con Time-Stamping Authority (DigiCert TSA).
-- Supporto per la decompressione e l'hashing automatico dei file ZIP.
-- Creazione assistita del Verbale di Consegna (Chain of Custody).
+### What's New in This Release
+- Automatic generation of forensic reports in PDF format.
+- Integration with the Bitcoin Blockchain (OTS).
+- Integration with Time-Stamping Authority (DigiCert TSA).
+- Support for automatic ZIP file extraction and hashing.
 
-### Note sull'installazione
-> **Nota importante sulla compatibilità di sistema:**
-> Attualmente, questa release è disponibile **esclusivamente per macOS**. Puoi scaricare l'app pre-compilata tramite il file `.dmg` qui sotto.
-> 
-> ⏳ **Dalla prossima versione**, introdurremo ufficialmente il supporto e l'installer `.exe` per i sistemi operativi **Windows**. Supporto multipiattaforma in arrivo!
+### Coming Soon
+- Chain of Custody delivery report generation (*Verbale di Consegna*) will be available in future releases.
 
-Per installare su macOS:
-1. Scarica il file `TrueHash Forensics.dmg` allegato qui sotto.
-2. Apri il file `.dmg`.
-3. Trascina l'applicazione "TrueHash Forensics" nella tua cartella **Applicazioni**.
+### Installation Notes
+> **Important System Compatibility Note:**
+> Currently, this release is **exclusively available for macOS**. You can download the pre-compiled app via the `.dmg` file below.
+>
+> ⏳ **Starting from the next version**, we will officially introduce support and an `.exe` installer for **Windows** operating systems. Cross-platform support is coming!
+
+To install on macOS:
+1. Download the `TrueHash Forensics.dmg` file attached to this release.
+2. Open the `.dmg` file.
+3. Drag the "TrueHash Forensics" application into your **Applications** folder.
