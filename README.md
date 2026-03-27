@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="TrueHash Forensics Logo" width="250">
+</p>
+
 # TrueHash Forensics
 
 🇮🇹 **Italiano** | 🇬🇧 [English](#english)
