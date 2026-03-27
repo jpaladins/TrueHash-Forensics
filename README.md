@@ -18,7 +18,8 @@ Puoi scaricare l'applicazione pre-compilata dalla pagina [Releases](https://gith
 *   **macOS:** Scarica l'ultima release, il file `.dmg`, aprilo e trascina l'applicazione nella tua cartella Applicazioni.
 *   **Windows:** In arrivo nelle prossime versioni (sarà disponibile un file `.exe`).
 
-
+## Licenza
+Questo progetto è distribuito sotto licenza GNU GPL v3. Clicca e consulta il file `LICENSE` allegato per maggiori dettagli.
 
 <hr>
 
